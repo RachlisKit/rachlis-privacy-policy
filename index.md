@@ -82,7 +82,7 @@ These services have their own privacy policies:
 
 ## Children's Privacy
 
-Our app is not intended for users under 12 years of age. We do not knowingly collect information from children under 12. If you believe a child has provided us with personal information, please contact us.
+Our app is not intended for users under 9 years of age. We do not knowingly collect information from children under 9. If you believe a child has provided us with personal information, please contact us.
 
 ## Data Sharing
 
